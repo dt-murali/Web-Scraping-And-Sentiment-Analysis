@@ -39,5 +39,6 @@ ___
 This process helps the user quickly analyze and visualize sentiments from Amazon product reviews.
 ___
 ## Reference
-- For more details, vist web scraping and sentiment analysis project : [ScrapeSense-Web Scraping And Sentiment Analysis](
+- For more details, vist web scraping and sentiment analysis project : [ScrapeSense-Web Scraping And Sentiment Analysis](https://github.com/dt-murali/Web-Scraping-And-Sentiment-Analysis)
+___
 
